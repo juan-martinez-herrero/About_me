@@ -11,11 +11,13 @@
      \$$   \$$  \$$$$$$$ \$$ \$$  \$$$$$$        \$$      \$$  \$$$$$$  \$$       \$$  \$$$$$$$ \$$
 
 
-:godmode: My name is Juan Martinez. I'm a DevOps and Big Data Engineer. Right now I work at [Lookiero Tech](http://techjobs.lookiero.com/) based in Bilbao, Basque Country.
+:godmode: My name is Juan Martinez 🖖. I'm a DevOps and Big Data Engineer. Right now I work at [Lookiero Tech](http://techjobs.lookiero.com/) based in Bilbao, Basque Country.
 
 💻 I'm an egger at [TheEgg.AI](https://theegg.ai/) an Artificial Intelligence school. My code is mainly focus in Big Data and DevOps technologies and deployed to the ☁️ (Amazon, Azure & GPC).
 
 📫 You can reach me:
 
-* [Twitter](https://twitter.com/Arc4ng3L0)
-* [LinkedIn](https://www.linkedin.com/in/juan-martinez-herrero/)
+* [<span class="emoji">🐦 &nbsp;</span>Twitter](https://twitter.com/Arc4ng3L0)
+* [<span class="emoji">💼 &nbsp;</span>LinkedIn](https://www.linkedin.com/in/juan-martinez-herrero/)
+* [:octocat: Github](https://github.com/juan-martinez-herrero/)
+

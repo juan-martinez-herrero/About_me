@@ -11,7 +11,7 @@
      \$$   \$$  \$$$$$$$ \$$ \$$  \$$$$$$        \$$      \$$  \$$$$$$  \$$       \$$  \$$$$$$$ \$$
 
 
-:godmode: My name is Juan Martinez 🖖. I'm a DevOps and Big Data Engineer. Right now I work at [Lookiero Tech](http://techjobs.lookiero.com/) based in Bilbao, Basque Country.
+:godmode: My name is Juan Martinez 🖖. I'm a Senior DevOps Cloud and Big Data Engineer. Right now I work at [Lookiero Tech](http://techjobs.lookiero.com/) based in Bilbao, Basque Country.
 
 💻 I'm an egger at [TheEgg.AI](https://theegg.ai/) an Artificial Intelligence school. My code is mainly focus in Big Data and DevOps technologies and deployed to the ☁️ (Amazon, Azure & GPC).
 

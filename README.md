@@ -27,15 +27,14 @@
 
 <br />
 
-## My Github account Stats:
-[comment]: <> (https://github.com/juan-martinez-herrero/github-readme-stats)
+## My GitHub Stats
 
-| <a href="https://github.com/juan-martinez-herrero/theegg_ai"><img align="center" src="https://github-readme-stats.vercel.app/api?username=juan-martinez-herrero&show_icons=true&include_all_commits=true&theme=blue&hide_border=true" alt="Juan's github stats" /></a> | <a href="https://github.com/juan-martinez-herrero/theegg_ai"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-martinez-herrero&layout=compact&theme=blue&hide_border=true" /></a> |
-| ------------- | ------------- |
+ <img src="https://github-readme-stats.vercel.app/api?username=juan-martinez-herrero&show_icons=true&theme=gotham" alt="JVΛN" width="45%" align="right"/>
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=juan-martinez-herrero&theme=dark" width="48%" >
 
-## Top Repository:
-[comment]: <> (https://github.com/juan-martinez-herrero/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juan-martinez-herrero&repo=theegg_ai)](https://github.com/juan-martinez-herrero/theegg_ai)
+![Top Languages in Github](https://github-readme-stats.vercel.app/api/top-langs/?username=juan-martinez-herrero&theme=radical)
+![JVΛN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=juan-martinez-herrero&hide=prs,issues,contribs?username=juan-martinez-herrero&count_private=true?username=juan-martinez-herrero&show_icons=true&theme=radical)
+
 
 <br />
